@@ -1,2 +1,2 @@
-# Javascript-Projects
-Projects completed in school utilizing JavaScript libraries
+# React-Projects
+Projects completed utilizing React components and libraries
