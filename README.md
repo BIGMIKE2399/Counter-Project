@@ -1,5 +1,6 @@
 # Counter Project
 Stylized counter created with React
+
 To Run:
 
 1.Have React and React libraries installed
