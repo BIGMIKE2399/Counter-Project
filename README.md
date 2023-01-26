@@ -5,10 +5,11 @@ To Run:
 
 1.Have React and React libraries installed
 
-2.Save App.js and index.js into a folder
+2.Create a new Project by opening the Windows Powershell and typing "npx create-react-app [name of choice]"
 
-3.Access your Windows Powershell
+3.Delete default "App.js" and "index.js"
 
-4.type "cd [folder name]"
+4.Move "App.js" and "index.js" files into src folder
 
-5.then type "npm start"
+5.Save folder and refresh browser
+
